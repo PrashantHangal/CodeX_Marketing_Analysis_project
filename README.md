@@ -1,15 +1,15 @@
 # CodeX_Marketing_Analysis_project
 (CodeX an energy drink analysis on Marketing domain)
 
-About Company :
+**About Company :**
 
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India. (Tier1 cities- Delhi, Mumbai, Bangalore, Chennai, Hyderabad. And Tier2 cities- Kolkata, Ahmedabad, Jaipur, Lucknow, Pune).
 
-Problem Statement:
+**Problem Statement:**
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. So they conducted a survey in those 10 cities and received results from 10k respondents. So we as a marketing data analyst is tasked to convert these survey results to meaningful insights which their team can use to drive actions. Also, the Marketing Team have asked to share meaningful recommendations from the data or external factors etc.
 
-About Dataset:
+**About Dataset:**
 
 We have got three MS Excel files, two dimension tables of cities & respondents details and one fact survey response data. 
 
